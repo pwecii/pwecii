@@ -1,3 +1,4 @@
+![logo](https://github.com/pwecii/pwecii/blob/main/1_vBi4Ycgdn5t3lu2SvQXuog.gif)
 <h1>Hello World!</h1>
 <p>My Name is Precy, you can call me Pres :></p>
 <p>I am a Computer Science Student from New Era University</p>
