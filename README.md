@@ -6,4 +6,7 @@
 <h2>Certifications:</h2>
 <p>•https://courses.cognitiveclass.ai/certificates/1d80bffea4d145ea899fc23891f397ba</p>
 
-<img align="center" alt="coding" width ="500" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"
+<h2>Skills</h2>
+<p>•HTML</p>
+<p>•JAVA</p>
+
